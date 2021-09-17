@@ -2,4 +2,4 @@
 
 Python and R Scripts used for my Bachelor Thesis. 
 
-The Powershell and Bash scripts are for runtime monitoring
+The Powershell and Bash scripts are for runtime monitoring.
